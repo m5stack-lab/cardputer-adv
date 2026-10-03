@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="cardputer-adv: Firmware catalog: Bruce, Marauder, Nemo, Meshtastic + ADRs" width="100%"></p>
+
 # cardputer-adv
 
 Tooling to streamline getting new firmware onto an M5Stack Cardputer ADV: fetch the latest firmware release(s), stage the `.bin` file(s) the way the device expects, and have them ready to drop onto the SD card — without the manual "browse M5Burner's cache, rename the file, drag it into `downloads`" dance described in [ADR 0001](adr/0001-porkchop-firmware-setup-macos.md).
@@ -19,3 +21,8 @@ The goal of this project is to collapse that into a single step (or a short scri
 ## Docs
 
 - [`adr/`](adr/) — architecture decision records. Start with [0001 — Porkchop Firmware Setup Workflow (macOS)](adr/0001-porkchop-firmware-setup-macos.md) for the manual process this project is meant to streamline.
+
+<!-- org-footer -->
+---
+
+<p align="center"><sub>Part of <a href="https://github.com/m5stack-lab">m5stack-lab</a> · unofficial M5Stack projects, not affiliated with M5Stack · built by <a href="https://github.com/ry-ops">ry-ops</a></sub></p>
