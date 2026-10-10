@@ -20,6 +20,7 @@ The goal of this project is to collapse that into a single step (or a short scri
 
 ## Docs
 
+- [`NOTICE.md`](NOTICE.md) — license and exact upstream source for every firmware binary in `firmware/`.
 - [`adr/`](adr/) — architecture decision records. Start with [0001 — Porkchop Firmware Setup Workflow (macOS)](adr/0001-porkchop-firmware-setup-macos.md) for the manual process this project is meant to streamline.
 
 <!-- org-footer -->
